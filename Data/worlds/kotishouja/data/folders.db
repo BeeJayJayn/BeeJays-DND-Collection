@@ -1,0 +1,78 @@
+{"_id": "OWYyOWU3NWU3N2Ey", "name": "inactive", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTk2NzNhNGIzNmQ1", "sort": 100000}
+{"_id": "OTk2NzNhNGIzNmQ1", "name": "Player Notes", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 100000}
+{"_id": "NWIyMzQxMTQ1NWFm", "name": "Anna", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 300000}
+{"_id": "YmQxOGFhNjBkOGIx", "name": "Dennis", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 400000}
+{"_id": "ZWY1ZGViZGY2MGFk", "name": "Tobi", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 500000}
+{"_id": "MTExYTMyMTc0YjQ0", "name": "Kalle", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 600000}
+{"_id": "OGYyMTFmZDgxYWMw", "name": "Steph", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 700000}
+{"_id": "YzA4YzI5YjU5Y2Rl", "name": "Can", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 800000}
+{"_id": "ZGNmZTQxNjFiNTg5", "name": "inactive", "flags": {}, "type": "Actor", "color": "", "parent": "YWU3ZTVlZDQyYWI5", "sort": 900000}
+{"_id": "YWU3ZTVlZDQyYWI5", "name": "PCs", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 200000}
+{"_id": "ZjUzYjFhOTVjMzdh", "name": "Headhunters", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1100000}
+{"_id": "ODlhNjMxMzVjMmI0", "name": "Patrons & Pacts", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1200000}
+{"_id": "OWNlZThjODJjZDZh", "name": "\"The Black Network\" (True Zhents)", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1300000}
+{"_id": "ZWY4MzI1NWZlZThi", "name": "City Watch", "flags": {}, "type": "JournalEntry", "color": "", "parent": "M2I1MmRkM2VjODI1", "sort": 1400000}
+{"_id": "ZjhiOGEwNmZhMmEy", "name": "Darkling Clan", "flags": {}, "type": "JournalEntry", "color": "", "parent": "M2I1MmRkM2VjODI1", "sort": 1500000}
+{"_id": "M2QxMGM3Y2Y4Njc3", "name": "Gralhund", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1600000}
+{"_id": "ZTkwYjk3ODE2NjAz", "name": "Temple of Gond", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1700000}
+{"_id": "NWI2N2M3NTdjZGM5", "name": "Trollskull Alley", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1800000}
+{"_id": "OGI3OGVhMDY5Y2Vi", "name": "UFC", "flags": {}, "type": "Actor", "color": "", "parent": "NDM5MzkwODJmZmY1", "sort": 1900000}
+{"_id": "M2I1MmRkM2VjODI1", "name": "NPCs", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 1000000}
+{"_id": "NDM5MzkwODJmZmY1", "name": "NPCs", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 1000000}
+{"_id": "MDYyNTBkMzFkODhi", "name": "Nameless Ones", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2400000}
+{"_id": "MzU3MmJkZDAzMWU1", "name": "Mad Crystal", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2500000}
+{"_id": "NDBhNWU4YmViN2Nl", "name": "Lost Eternal", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2600000}
+{"_id": "YjQwOTkwYjZlMDlk", "name": "Violet Front", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2700000}
+{"_id": "ZjJkNmFlZjE2ZWY5", "name": "Violet Front", "flags": {}, "type": "Actor", "color": "", "parent": "NDI4YTZhMTA0ZDFi", "sort": 2700000}
+{"_id": "ZGZlMmU4OGUwODE3", "name": "Navy Hand", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2900000}
+{"_id": "MzMwODNmZDUwYWE3", "name": "Pure Furious", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 3000000}
+{"_id": "ZmZjYjFlYzliN2I1", "name": "Swarms / Gangs", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 2300000}
+{"_id": "N2MyNWMwOGYyMjI4", "name": "Swarms / Gangs", "flags": {}, "type": "Actor", "color": "", "parent": "NDI4YTZhMTA0ZDFi", "sort": 2300000}
+{"_id": "NjcxNzU0M2M2NjI3", "name": "Kirjasto", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 3200000}
+{"_id": "ZjMwYzc2M2RkOTY3", "name": "Pes\u00e4n Susi", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 3300000}
+{"_id": "MTFkZDBhOWIwODUy", "name": "OotG: The White Chapel", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 3400000}
+{"_id": "ZGVhZWMxODU2OTZh", "name": "Kenku Bazaar", "flags": {}, "type": "JournalEntry", "color": "", "parent": "MTExNTM2YTdiOWE4", "sort": 3500000}
+{"_id": "MTExNTM2YTdiOWE4", "name": "Hornets Nest", "flags": {}, "type": "JournalEntry", "color": "", "parent": "NDUzZjQ0NWE1ZjVj", "sort": 2200000}
+{"_id": "NDI4YTZhMTA0ZDFi", "name": "Hornets Nest", "flags": {}, "type": "Actor", "color": "", "parent": "ZDBkMDdmOTYwZWNj", "sort": 2200000}
+{"_id": "OGUzYTIzNjhmNjQz", "name": "Trollskull Alley", "flags": {}, "type": "JournalEntry", "color": "", "parent": "NTBlYjNmZWJmZjQ4", "sort": 3800000}
+{"_id": "NTBlYjNmZWJmZjQ4", "name": "Shifting Lights", "flags": {}, "type": "JournalEntry", "color": "", "parent": "NDUzZjQ0NWE1ZjVj", "sort": 3700000}
+{"_id": "NDUzZjQ0NWE1ZjVj", "name": "Kotishouja", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 2100000}
+{"_id": "ZDBkMDdmOTYwZWNj", "name": "Kotishouja", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 2100000}
+{"_id": "NzAwMmJhNmU1Mzc3", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "YzljN2I4OGRiYjdk", "sort": 4200000}
+{"_id": "NzhhMzRhNTFlYWQ0", "name": "Zhentarim", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 4100000}
+{"_id": "YzljN2I4OGRiYjdk", "name": "Zhentarim", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 4100000}
+{"_id": "YmJmZTdlZTgwNzg5", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "OWQxNjdhYjAxYzQy", "sort": 4500000}
+{"_id": "MTdiMWYyYWI0NGZm", "name": "Emerald Enclave", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 4400000}
+{"_id": "OWQxNjdhYjAxYzQy", "name": "Emerald Enclave", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 4400000}
+{"_id": "NzVhN2UzZDcwM2Uz", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "NjAyZjA0NWRlYzc1", "sort": 4800000}
+{"_id": "ZWNiZWJlNmVhZDdi", "name": "Gray Hands", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 4700000}
+{"_id": "NjAyZjA0NWRlYzc1", "name": "Gray Hands", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 4700000}
+{"_id": "YmI0YjliMWMxOTc3", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "NDU1ZGRjNzBhYmZl", "sort": 5100000}
+{"_id": "NmVmNTc2ZDk4MGQw", "name": "Harpers", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 5000000}
+{"_id": "NDU1ZGRjNzBhYmZl", "name": "Harpers", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 5000000}
+{"_id": "MTdmNzRmYTMxZjli", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "Zjg3YTZiM2U1Njkx", "sort": 5400000}
+{"_id": "MGE3NWRjZDg0OTNi", "name": "Lords Alliance", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 5300000}
+{"_id": "Zjg3YTZiM2U1Njkx", "name": "Lords Alliance", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 5300000}
+{"_id": "OTU4YjRiNzkwNDYx", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "MDFhYWJiM2IxYjA0", "sort": 5700000}
+{"_id": "MzAzMGJlYzlhMTk4", "name": "Order of the Gauntlet", "flags": {}, "type": "JournalEntry", "color": "", "parent": "OTcwOTUyZDM4YTg1", "sort": 5600000}
+{"_id": "MDFhYWJiM2IxYjA0", "name": "Order of the Gauntlet", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 5600000}
+{"_id": "Y2I2MDEzZjlmOGIz", "name": "Wizards", "flags": {}, "type": "Actor", "color": "", "parent": "N2E2MDYxZTlhNDhk", "sort": 6100000}
+{"_id": "OGUxNDdjNDYyYmE1", "name": "Shadowdale", "flags": {}, "type": "Actor", "color": "", "parent": "N2E2MDYxZTlhNDhk", "sort": 6000000}
+{"_id": "MmRiYzIzZTdjZjM4", "name": "Goblin Mafia", "flags": {}, "type": "Actor", "color": "", "parent": "N2E2MDYxZTlhNDhk", "sort": 6200000}
+{"_id": "Yjc2ZjZmMGQ2NDA4", "name": "Named NPC", "flags": {}, "type": "Actor", "color": "", "parent": "N2E2MDYxZTlhNDhk", "sort": 6400000}
+{"_id": "MmQ0NzFmMTIwMjEw", "name": "Temple of Gond", "flags": {}, "type": "Actor", "color": "", "parent": "N2E2MDYxZTlhNDhk", "sort": 6300000}
+{"_id": "N2E2MDYxZTlhNDhk", "name": "Others", "flags": {}, "type": "Actor", "color": "", "parent": "Y2QzYWZkYjY5M2Qw", "sort": 5900000}
+{"_id": "OTcwOTUyZDM4YTg1", "name": "Organizations", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 4000000}
+{"_id": "Y2QzYWZkYjY5M2Qw", "name": "Organizations", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 4000000}
+{"_id": "NWVhM2JjNjQ2MmU4", "name": "Downtime Activities", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 6600000}
+{"_id": "NjdlNGMwZDgwNWIz", "name": "Ledgers", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 6700000}
+{"_id": "N2NmMjc3NDZmNGQ5", "name": "Artifacts", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 6800000}
+{"_id": "Y2JmMzJjYTI2NDI2", "name": "Maps", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 6900000}
+{"_id": "MjZlZTQ0ODkxNDQx", "name": "Kodex", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 7000000}
+{"_id": "NjM5MzhjYjhlY2Y5", "name": "Chapter 4", "flags": {}, "type": "JournalEntry", "color": "", "parent": "ODQxNjYzZGVhYjk2", "sort": 7200000}
+{"_id": "MTFlZmQ1ZDg3NzEx", "name": "S3", "flags": {}, "type": "JournalEntry", "color": "", "parent": "ODQxNjYzZGVhYjk2", "sort": 7300000}
+{"_id": "ODQxNjYzZGVhYjk2", "name": "Handout / Story Telling", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 7100000}
+{"_id": "M2EwOWU2NjA0NmEx", "name": "Archived Scenes", "flags": {}, "type": "Scene", "color": "", "parent": null, "sort": 7400000}
+{"_id": "ODMyMjRkYmI3NGRj", "name": "Decks", "flags": {}, "type": "RollTable", "color": "", "parent": null, "sort": 7500000}
+{"_id": "NjExMjdkMTQwNjVh", "name": "Decks", "flags": {}, "type": "Item", "color": "", "parent": null, "sort": 7600000}
+{"_id": "YWFmNWNmZWU2ZTk3", "name": "Playing Cards", "flags": {}, "type": "Item", "color": "", "parent": "NjExMjdkMTQwNjVh", "sort": 7700000}

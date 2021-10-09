@@ -1,0 +1,37 @@
+{
+  "id": "kotishouja",
+  "name": "kotishouja",
+  "title": "Kotishouja",
+  "description": "",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.2.4",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "authors": [
+    "R20Converter"
+  ],
+  "keywords": [
+    "R20Converter"
+  ],
+  "packs": [],
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "unavailable": false,
+  "availability": 1,
+  "languages": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": ""
+}
